@@ -1,5 +1,5 @@
 
-<h1> IP CHECKER </h1>
+<h1> ALTERNATIVE FOR IP DNS TRACKER (freedom and completely free of charge using your apache website) </h1>
 
 <?php
 
